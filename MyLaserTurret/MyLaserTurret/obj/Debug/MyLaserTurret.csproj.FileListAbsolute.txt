@@ -1,0 +1,19 @@
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
+c:\users\michael\documents\visual studio 2017\Projects\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.Cache
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
+C:\Users\Johannes\Desktop\mtreeves808-laserturret-a0427eda3cfe\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csprojResolveAssemblyReference.cache
