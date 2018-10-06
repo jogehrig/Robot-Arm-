@@ -1,4 +1,7 @@
 # Robot-Arm-
+
+--OUTDATED-- check my Arm Mk3
+
 C# serial powered, arduino based robot arm
 
 
